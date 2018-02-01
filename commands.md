@@ -21,4 +21,4 @@ Command | Description
 `tommy <ID>` | Returns a random Tommy quote, or a specific one if an ID number is given.
 `tommylist`  | Returns a full list of Tommy quotes with their unique identifiers. The list self destructs after some time.
 `tommyremove [ID]` | Removes a specific Tommy quote from the list.
-`tommyadd <subject>|[quote]` | Adds a Tommy quote to the list, with optional `subject` header.
+`tommyadd <subject> | [quote]` | Adds a Tommy quote to the list, with optional `subject` header.

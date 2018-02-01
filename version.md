@@ -1,14 +1,17 @@
-## [Commands](https://novabros.github.io/NovaBot/commands)
-## [To-Do](https://novabros.github.io/NovaBot/todo)
-## 0.2.3 - Unreleased
+## [Changelog](https://novabros.github.io/NovaBot/version) | [To-Do](https://novabros.github.io/NovaBot/todo) | [Commands](https://novabros.github.io/NovaBot/commands)
+## 0.2.3 - Latest
 #### Added
-- Changelogs, with `version` command
-- To-do list, with `todo` command
+- `commands <package>` links to the commands page, optionally at a named package
+- `todo` links to the to-do list
+- `version <version>` brings up changelogs on the latest or specific version
+- `versions` lists versions
+- `roll <sides> <dice>` rolls dice and gives total
 
 #### Changed
-- Changed `strawpoll` title defaulting
+- `strawpoll` changed title defaulting
 - `Tommy` commands no longer have underscores
 - `tommylist` self-destructs after some time
+- `tommy` repeat buffer increased from 5 to 10
 
 #### Fixed
 - User ID gathering should be fixed for people with nicknames
@@ -16,7 +19,7 @@
 #### Removed
 - Junk
 
-## 0.2.2 - Latest
+## 0.2.2
 #### Added
 - Added cookies to Fun plugin
 - Added management tools to Tommy plugin

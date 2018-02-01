@@ -1,15 +1,32 @@
-## v0.2.1
- 
-### - Changed `Tommy` commands to be without underscore
-  
-| before         | after         |
-|:------------   |:--------------|
-| `tommy_add`    | `tommyadd`    |
-| `tommy_remove` | `tommyremove` |
-|`tommy_list`    | `tommylist`   |
- 
-### Changed `tommy_remove` to self-destruct after some time
+## 0.2.3 - Unreleased
+### Added
+- Changelogs, with `version` command
+- Two thing
 
- \- No reason keeping all that spammy text there and reveal Tommy's secrets
+### Changed
+- Changed `strawpoll` title defaulting
+- `Tommy` commands no longer have underscores
 
-### Fixed user ID return for `cookie`, should prevent self-giving cookies
+### Fixed
+- User ID gathering should be fixed for people with nicknames
+
+### Removed
+- Junk
+- More junk
+
+## 0.2.2 - Latest
+### Added
+- Added cookies to Fun plugin
+- Added management tools to Tommy plugin
+
+### Fixed
+- NB should no longer read other bots messages
+
+## 0.2.1
+### Added
+- Tommy plugin, for handling things Tommy says
+- Fun plugin, with a few fun things
+- Test plugin, for test and debug stuff
+
+## 0.2.0.0
+### Rebuild

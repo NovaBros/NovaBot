@@ -6,7 +6,7 @@ Commands will be listed here in much more detail.
 
 ### Syntax  
 Arguments wrapped in `[square brackets]` are required.  
-Arguments wrapped in `\<angle brackets\>` are optional.
+Arguments wrapped in `<angle brackets>` are optional.
 ### Tommy
 The Tommy plugin offers some commands to view and manage quotes from Tommy.  
 All commands except for `tommy` are restricted to special TommyAuthorized users.

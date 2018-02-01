@@ -11,14 +11,16 @@ Arguments wrapped in `<angle brackets>` are optional.
 The Tommy plugin offers some commands to view and manage quotes from Tommy.  
 All commands except for `tommy` are restricted to special TommyAuthorized users.
 
-`tommy <ID>` returns a random Tommy quote, or a specific one if an ID number is given  
-`tommylist` returns a full list of Tommy quotes with their unique identifiers. The list self destructs after some time.  
-`tommyremove [ID]` removes a specific Tommy quote from the list  
-`tommyadd <subject> | [quote]` adds a Tommy quote to the list, with optional `subject` header
-
 Command|Description
 :-|:-
 `tommy <ID>` | Returns a random Tommy quote, or a specific one if an ID number is given.
 `tommylist`  | Returns a full list of Tommy quotes with their unique identifiers. The list self destructs after some time.
 `tommyremove [ID]` | Removes a specific Tommy quote from the list.
 `tommyadd <subject>|[quote]` | Adds a Tommy quote to the list, with optional `subject` header. Make sure to use a `| pipe` character to separate the subject if used.
+
+### Fun
+The Fun plugin has some fun tools and games that will probably be divided into separate projects at some point.
+
+Command|Description
+:-|:-
+`strawpoll <title => [option1 | option2...]` | Create a strawpoll with optional title and a bunch of options. Identify title by putting an `= equals` sign after it, and separate options with `| pipe` characters. `n!strawpoll Favorite Color = Red | Blue | Green` works, and so does `n!strawpoll League of Legends | DotA 2 | World of Warcraft`

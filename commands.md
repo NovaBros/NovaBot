@@ -7,6 +7,10 @@ Commands will be listed here in much more detail.
 ### Syntax
 Arguments wrapped in `[square brackets]` are required.  
 Arguments wrapped in `<angle brackets>` are optional.
+These conventions are likely only true here.  
+`help` commands may say something completely different, but they are not accurate (yet).
+
+## Plugins
 ### Tommy
 The Tommy plugin offers some commands to view and manage quotes from Tommy.  
 All commands except for `tommy` are restricted to special TommyAuthorized users.
@@ -34,7 +38,7 @@ Test and debug commands for me and mods.
 Command | Description
 :-|:-
 `_ret` | Prints a bundle of message information to the console.
-`commands <target>` | Embeds a link to the command page, at optional `target` anchor.
+`commands <plugin>` | Embeds a link to the command page, at optional `plugin` anchor.
 `get_by_id` | Get a member by ID.
 `get_by_name` | Get a member by name.
 `members` | Get the member count of the current server.

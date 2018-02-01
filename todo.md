@@ -1,3 +1,4 @@
+## [Commands](https://novabros.github.io/NovaBot/commands)
 ## [Changelog](https://novabros.github.io/NovaBot/version)
 ## To-do
 

@@ -11,4 +11,4 @@
  ### - Changed `tommy_remove` to self-destruct after some time
  No reason keeping all that spammy text there and reveal Tommy's secrets
 
-### - Fixed user ID return for cookies, should prevent self-giving cookies
+### - Fixed user ID return for `cookie`, should prevent self-giving cookies

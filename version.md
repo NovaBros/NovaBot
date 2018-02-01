@@ -2,10 +2,13 @@
  1/2/18
  
 ### Changed `Tommy` commands to be without underscore
-
-| before | `tommy_add`    | `tommy_remove`  | `tommy_list` |
-|:-------|:---------------|:----------------|:-------------|
-| after  | `tommyadd`     | `tommyremove`   | `tommylist`  |
+  
+  
+| before         | after         |
+|:------------   |:--------------|
+| `tommy_add`    | `tommyadd`    |
+| `tommy_remove` | `tommyremove` |
+|`tommy_list`    | `tommylist`   |
 
  `tommy_add` `tommy_remove` `tommy_list` are now `tommyadd` `tommyremove` `tommylist`
  

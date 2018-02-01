@@ -29,5 +29,7 @@
 - Fun plugin, with a few fun things
 - Test plugin, for test and debug stuff
 
-## 0.2.0.0
+## 0.2.0
 ### Rebuild
+
+## 0.22.0

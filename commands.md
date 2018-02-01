@@ -4,7 +4,7 @@
 Because of the way some of the commands are parsed, and how the help command works, it may be difficult to find the full functionality of a command.  
 Commands will be listed here in much more detail.
 
-### Syntax  
+### Syntax
 Arguments wrapped in `[square brackets]` are required.  
 Arguments wrapped in `<angle brackets>` are optional.
 ### Tommy

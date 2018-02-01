@@ -16,8 +16,8 @@ All commands except for `tommy` are restricted to special TommyAuthorized users.
 `tommyremove [ID]` removes a specific Tommy quote from the list  
 `tommyadd <subject> | [quote]` adds a Tommy quote to the list, with optional `subject` header
 
-Command___________________|Description
-:-|:-
+Command|Description
+-|:-
 `tommy <ID>` | Returns a random Tommy quote, or a specific one if an ID number is given.
 `tommylist`  | Returns a full list of Tommy quotes with their unique identifiers. The list self destructs after some time.
 `tommyremove [ID]` | Removes a specific Tommy quote from the list.

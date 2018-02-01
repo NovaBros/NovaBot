@@ -23,4 +23,22 @@ The Fun plugin has some fun tools and games that will probably be divided into s
 
 Command|Description
 :-|:-
-`strawpoll <title => [option1 | option2...]` | Create a strawpoll with optional title and a bunch of options. Identify title by putting an `= equals` sign after it, and separate options with `| pipe` characters. `n!strawpoll Favorite Color = Red | Blue | Green` works, and so does `n!strawpoll League of Legends | DotA 2 | World of Warcraft`
+`strawpoll <title => [option1 | option2...]` | Create a strawpoll with optional title and a bunch of options. Identify title by putting an `= equals` sign after it, and separate options with `| pipe` characters. `n!strawpoll Favorite Color = Red | Blue | Green` works, and so does `n!strawpoll League of Legends | DotA 2 | World of Warcraft`.
+`ship [person1] [person2]` | Find the shipping match between two people.
+`cookie [person]` | Send a cookie to another person. This command is on a cooldown.
+`cookiejar` | Take a gander at your cookie stash.
+
+### Test
+Test and debug commands for me and mods.
+
+Command | Description
+:-|:-
+`members` | Get the member count of the current server.
+`get_by_id` | Get a member by ID.
+`get_by_name` | Get a member by name.
+`ping [num] <buffer>` | Send `num` ping messages to the channel with `buffer` seconds in between each ping.
+`_ret` | Prints a bundle of message information to the console.
+`todo` | Embeds a link to the to-do list.
+`commands <target>` | Embeds a link to the command page, at optional `target` anchor.
+`version <version_code>` | Returns the current version and its changelog, as well as a link to the full changelog. If a specific version code is passed as the argument, it returns that version. Get version codes with `versions`. Get future versions with `new`, `future`,  `unreleased`, or `next`.
+`versions` | List versions for use in `version` command.

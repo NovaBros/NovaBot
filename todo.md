@@ -1,5 +1,4 @@
-## [Commands](https://novabros.github.io/NovaBot/commands)
-## [Changelog](https://novabros.github.io/NovaBot/version)
+## [Changelog](https://novabros.github.io/NovaBot/version) | [To-Do](https://novabros.github.io/NovaBot/todo) | [Commands](https://novabros.github.io/NovaBot/commands)
 ## To-do
 
 ### Core Stuff

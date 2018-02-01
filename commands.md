@@ -1,5 +1,7 @@
 ## [Changelog](https://novabros.github.io/NovaBot/version)
 ## [To-Do](https://novabros.github.io/NovaBot/todo)
+[Changelog](https://novabros.github.io/NovaBot/version) | [To-Do](https://novabros.github.io/NovaBot/todo) | [Commands](https://novabros.github.io/NovaBot/commands)
+-|-|-
 ## Commands  
 Because of the way some of the commands are parsed, and how the help command works, it may be difficult to find the full functionality of a command.  
 Commands will be listed here in much more detail.

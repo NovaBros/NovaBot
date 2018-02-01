@@ -1,4 +1,4 @@
-[Changelog](https://novabros.github.io/NovaBot/version)
+## [Changelog](https://novabros.github.io/NovaBot/version)
 ## To-do
 
 ### Core Stuff

@@ -1,5 +1,5 @@
- ### Newest Version
- ### v0.2.1
+ ## Newest Version v0.2.1
+ 
  1/2/18
  
  ### Changed `Tommy` commands to be without underscore

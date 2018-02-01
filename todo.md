@@ -1,3 +1,4 @@
+[Changelog](https://novabros.github.io/NovaBot/version)
 ## To-do
 
 ### Core Stuff
@@ -7,7 +8,6 @@
   - Commands, errors, autosaves, etc
 - [ ] Proper `on_command` exception handling
 - [ ] Format HelpFormatter
-- [ ] 
 
 ### Mod Stuff
 - [ ] `clear [NUM] <USER>` command, to clear NUM messages from optional USER

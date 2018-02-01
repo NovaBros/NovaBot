@@ -8,7 +8,7 @@
 | `tommy_remove` | `tommyremove` |
 |`tommy_list`    | `tommylist`   |
  
- ### - Changed `tommy_remove` to self-destruct after some time
+### - Changed `tommy_remove` to self-destruct after some time
  No reason keeping all that spammy text there and reveal Tommy's secrets
 
 ### - Fixed user ID return for `cookie`, should prevent self-giving cookies

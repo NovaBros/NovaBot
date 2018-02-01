@@ -10,7 +10,6 @@
 | `tommy_remove` | `tommyremove` |
 |`tommy_list`    | `tommylist`   |
 
- `tommy_add` `tommy_remove` `tommy_list` are now `tommyadd` `tommyremove` `tommylist`
  
-### Changed `tommyremove` to self-destruct after some time
+### Changed `tommy_remove` to self-destruct after some time
 No reason keeping all that spammy text there and reveal Tommy's secrets

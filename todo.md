@@ -30,3 +30,4 @@
 - `spell` for memespelling, like with pictures of other stuff or something
 - Change `cookie` so that `cookie.json` is updated every 10-30 minutes, rather than on each `cookie` command
 - Change `Tommy` so that `tommy.json` is updated every few hours, rather than on each `tommyadd` and `tommyremove` command
+- Convert `Tommy` commands to all be subcommands of `n!tommy`, default to current `n!tommy`

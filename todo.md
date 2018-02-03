@@ -8,6 +8,8 @@
   - Commands, errors, autosaves, etc
 - Proper `on_command` exception handling
 - Format HelpFormatter
+- Add `utils.permissions.py` to handle command checks across all plugins
+- Add `permissions.json` to use as read/write for permissions across all plugins
 
 ### Mod Stuff
 - `clear [NUM] <USER>` command, to clear NUM messages from optional USER

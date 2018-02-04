@@ -38,5 +38,5 @@ and in this screen you should find a number right about here, at the red arrow:
   
 - Your command line input line thinger should look like this now: `C:\Users\Owner\Desktop(if you put it here)\discord.py-0.16.12 >` and it will be waiting for your next command.
 - Do `python setup.py install`
-- That should hopefully work maybe.
+- That should hopefully work maybe.  
 ![picture](https://i.imgur.com/HRYBb3S.png)

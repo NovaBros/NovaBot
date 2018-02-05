@@ -17,9 +17,9 @@ All commands except for `tommy` are restricted to special TommyAuthorized users.
 Command|Description
 :-|:-
 `tommy <ID>` | Returns a random Tommy quote, or a specific one if an ID number is given.
-`tommyadd <subject>|[quote]` | Adds a Tommy quote to the list, with optional `subject` header. Make sure to use a `| pipe` character to separate the subject if used.
-`tommylist`  | Returns a full list of Tommy quotes with their unique identifiers. The list self destructs after some time.
-`tommyremove [ID]` | Removes a specific Tommy quote from the list.
+`tommy add <subject>|[quote]` | Adds a Tommy quote to the list, with optional `subject` header. Make sure to use a `| pipe` character to separate the subject if used.
+`tommy list`  | Returns a full list of Tommy quotes with their unique identifiers. The list self destructs after some time.
+`tommy remove [ID]` | Removes a specific Tommy quote from the list.
 
 ### Fun
 The Fun plugin has some fun tools and games that will probably be divided into separate projects at some point.

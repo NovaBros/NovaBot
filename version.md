@@ -1,5 +1,13 @@
 ## [Changelog](https://novabros.github.io/NovaBot/version) | [To-Do](https://novabros.github.io/NovaBot/todo) | [Commands](https://novabros.github.io/NovaBot/commands)
-## 0.2.3 - Latest
+## 0.2.3.1 - Latest
+#### Changed
+- `Tommy` commands are now subcommands of the main `n!tommy`
+
+#### Fixed
+- Fixed a bunch of broken `help` commands from `Tommy`
+- `v_update` command should properly re-acquire changelogs
+
+## 0.2.3
 #### Added
 - `commands <package>` links to the commands page, optionally at a named package
 - `todo` links to the to-do list

@@ -2,6 +2,7 @@
 ## To-do
 
 ### Core Stuff
+- Get bot running on a vps
 - Add logging
   - Commands, errors, autosaves, etc
 - Proper `on_command` exception handling

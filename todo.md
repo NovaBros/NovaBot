@@ -2,8 +2,6 @@
 ## To-do
 
 ### Core Stuff
-- Upgrade to rewrite branch
-  - It's gonna be a bitch
 - Add logging
   - Commands, errors, autosaves, etc
 - Proper `on_command` exception handling
@@ -33,3 +31,7 @@
 - Change `cookie` so that `cookie.json` is updated every 10-30 minutes, rather than on each `cookie` command
 - Change `Tommy` so that `tommy.json` is updated every few hours, rather than on each `tommyadd` and `tommyremove` command
 - Convert `Tommy` commands to all be subcommands of `n!tommy`, default to current `n!tommy`
+
+### Far Future
+- Upgrade to rewrite branch
+- Generate webpages to show user information (cookies, levels)

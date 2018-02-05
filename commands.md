@@ -28,7 +28,7 @@ Command|Description
 :-|:-
 `cookie [person]` | Send a cookie to another person. This command is on a cooldown.
 `cookiejar` | Take a gander at your cookie stash.
-`roll <sides> <dice>` | Roll a \<sides\>-sided die \<dice\> times and return the sum. Defaults to a single d20 roll.
+`roll <sides> <dice>` | Roll a \<sides>-sided die \<dice> times and return the sum. Defaults to a single d20 roll.
 `ship [person1] [person2]` | Find the shipping match between two people.
 `strawpoll <title => [option1 | option2...]` | Create a strawpoll with optional title and a bunch of options. Identify title by putting an `= equals` sign after it, and separate options with `| pipe` characters. `n!strawpoll Favorite Color = Red | Blue | Green` works, and so does `n!strawpoll League of Legends | DotA 2 | World of Warcraft`.
 

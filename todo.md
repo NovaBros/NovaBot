@@ -1,6 +1,10 @@
 ## [Changelog](https://novabros.github.io/NovaBot/version) | [To-Do](https://novabros.github.io/NovaBot/todo) | [Commands](https://novabros.github.io/NovaBot/commands)
 ## To-do
 
+### High Priority
+- Fix `help` command.
+  - No clue why on earth it would be broken. It shouldn't be possible to break it.
+  
 ### Core Stuff
 - Get bot running on a vps
 - Add logging

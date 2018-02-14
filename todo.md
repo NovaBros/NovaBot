@@ -2,8 +2,7 @@
 ## To-do
 
 ### High Priority
-- Fix `help` command.
-  - No clue why on earth it would be broken. It shouldn't be possible to break it.
+
   
 ### Core Stuff
 - Get bot running on a vps

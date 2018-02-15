@@ -5,6 +5,7 @@
 
   
 ### Core Stuff
+- Convert databases to use PostgreSQL
 - Get bot running on a vps
 - Add logging
   - Commands, errors, autosaves, etc
